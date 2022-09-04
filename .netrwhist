@@ -1,0 +1,9 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =7
+let g:netrw_dirhist_7='/home/mf/.config'
+let g:netrw_dirhist_6='/home/mf/.config/nvim'
+let g:netrw_dirhist_5='/home/mf/.config/nvim/init.vim'
+let g:netrw_dirhist_4='/home/mf/.config/nvim/lua'
+let g:netrw_dirhist_3='/home/mf/.config/nvim/lua/user'
+let g:netrw_dirhist_2='/home/mf/.config/nvim/lua'
+let g:netrw_dirhist_1='/home/mf/.config/nvim'
