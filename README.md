@@ -1,1 +1,1 @@
-readme
+- plugin data files are saved to: ~/.local/share/nvim/site/pack/packer/
